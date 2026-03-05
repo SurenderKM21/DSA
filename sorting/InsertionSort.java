@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class InsertionSort {
@@ -30,4 +32,5 @@ public class InsertionSort {
         for(int i:arr)
             System.out.print(i+" ");
     }
+    
 }
